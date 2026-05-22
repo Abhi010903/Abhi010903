@@ -1,213 +1,160 @@
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ABHIJIT%20KUMAR&fontAlign=50&fontAlignY=40&color=0:000000,25:1a0000,50:ff0000,75:ffae00,100:fff0c1&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+<h1 align="center">Hi 👋, I'm Abhijit Kumar</h1>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1800&pause=800&color=FFB000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=Hello+World+👋;ABHIJIT+KUMAR;AI+Full+Stack+Developer;Building+Scalable+AI+Systems;Creating+Futuristic+Digital+Experiences"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&pause=1000&color=FFB000&center=true&vCenter=true&width=850&lines=AI+Full-Stack+Developer;Building+Scalable+AI+Applications;FastAPI+%7C+React+%7C+Cloud+Engineering;Machine+Learning+%7C+NLP+%7C+RAG+Pipelines;Creating+Futuristic+Digital+Experiences" />
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-<img width="100%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
-
-</div>
-
----
-
-# ⚡ ABOUT ME
-
-<div align="center">
-
-```yaml
-Name: Abhijit Kumar
-Role: AI Full Stack Developer
-Location: Dimapur, Nagaland
-Education: Parul Institute of Technology
-Graduation: 2027
-
-Focus:
-  - AI Applications
-  - Machine Learning
-  - Cloud Engineering
-  - Scalable Backend Systems
-  - Futuristic UI/UX
-
-Currently:
-  Building intelligent systems that combine
-  AI, performance, automation, and design.
-```
-
-</div>
+- 🚀 Building **AI-powered scalable applications** with modern backend architectures  
+- 🧠 Working on **Machine Learning, NLP, Embeddings & RAG Pipelines**  
+- ⚡ Passionate about **Cloud Engineering, Automation & Intelligent Systems**  
+- 💡 Focused on **performance, clean architecture & futuristic UI/UX**  
+- 🌐 Experienced with **AWS, Azure, FastAPI, React.js & REST APIs**  
+- 🎯 Preparing for **elite Software Engineering & AI-focused roles**  
+- 🔥 Exploring the future of **AI-driven applications & digital ecosystems**  
 
 ---
 
-# 🧠 TECH ECOSYSTEM
+## 💻 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,react,nextjs,nodejs,fastapi,dotnet,mongodb,mysql,aws,azure,linux,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-# ⚡ AI • CLOUD • SECURITY
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 AI & ML
-
-Machine Learning  
-NLP  
-RAG Pipelines  
-Embeddings  
-Sentence Transformers  
-Predictive Analytics  
-
-</td>
-
-<td align="center" width="33%">
-
-### ☁️ Cloud & Backend
-
-AWS  
-Azure  
-FastAPI  
-Node.js  
-REST APIs  
-Scalable Systems  
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔐 Security
-
-JWT Authentication  
-AES-128 Encryption  
-Access Control  
-Secure APIs  
-Version Control  
-SDLC  
-
-</td>
-</tr>
-</table>
-
-</div>
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 
 ---
 
-# 📊 DEVELOPMENT ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi010903&show_icons=true&theme=transparent&hide_border=true&title_color=ffae00&text_color=ffffff&icon_color=ff0000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi010903&theme=transparent&hide_border=true&ring=ffae00&fire=ff0000&currStreakLabel=ffae00"/>
-
-</div>
+### ⚙️ Frameworks & Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
 
-# 🌌 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi010903&bg_color=0D1117&color=ffae00&line=ff0000&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+### 🤖 AI / Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=flat)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-16A085?style=flat)
+![Embeddings](https://img.shields.io/badge/Embeddings-E74C3C?style=flat)
+![AI Development](https://img.shields.io/badge/AI%20Assisted%20Development-2C3E50?style=flat)
 
 ---
 
-# 🧠 CODING PROFILES
+### 🗄️ Databases & Search
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat)
 
-<div align="center">
+---
 
-<a href="https://leetcode.com/u/Abhi_0109/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🔐 Security & Authentication
+![JWT](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![AES Encryption](https://img.shields.io/badge/AES--128%20Encryption-8E44AD?style=flat)
+![Access Control](https://img.shields.io/badge/Access%20Control-34495E?style=flat)
+
+---
+
+### 🛠️ Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+---
+
+## ⚡ What I Bring
+
+- 🧠 Strong foundation in **AI systems, Machine Learning & Backend Engineering**  
+- ⚙️ Experience designing **scalable APIs and cloud-native applications**  
+- 🤖 Passion for **automation, intelligent systems & futuristic technology**  
+- 🌍 Interest in solving **real-world engineering and AI problems**  
+- 🚀 Constantly learning, building & evolving as a developer  
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Abhi_0109/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
-<a href="https://codeforces.com/profile/abhijais0109">
-<img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=ffffff"/>
+<a href="https://codeforces.com/profile/abhijais0109" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-<a href="https://www.codechef.com/users/open_year_30">
-<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.codechef.com/users/open_year_30" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/abhijais0109">
-<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+<a href="https://www.hackerrank.com/profile/abhijais0109" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
 </a>
 
-</div>
+</p>
 
 ---
 
-# ⚡ CURRENT OBJECTIVES
+## 📈 GitHub Stats
 
-<div align="center">
-
-```diff
-+ Building AI-driven applications
-+ Scaling modern backend architectures
-+ Mastering cloud-native development
-+ Creating immersive user experiences
-+ Solving real-world engineering problems
-```
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi010903&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi010903&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-# 🌐 CONNECT
+## 🌌 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi010903&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
 
 <a href="mailto:abhijasi0109@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Abhi010903">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Abhi010903" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Abhi010903&label=Profile%20Views&color=ff0000&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0c1,25:ffae00,50:ff0000,75:1a0000,100:000000&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Abhi010903&icon=5&color=12" />
+</p>
