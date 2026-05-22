@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:4B0000,50:FF0000,75:FFD700,100:FFF8DC&text=ABHIJIT%20KUMAR&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=IRON%20MAN%20AI%20SYSTEM&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ABHIJIT%20KUMAR&fontAlign=50&fontAlignY=40&color=0:000000,25:1a0000,50:ff0000,75:ffae00,100:fff0c1&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=⚡+INITIALIZING+ABHI.EXE+⚡;AI+FULL+STACK+ENGINEER;BUILDING+FUTURISTIC+SYSTEMS;FASTAPI+⚡+REACT+⚡+AWS+⚡+AI;WELCOME+TO+THE+JARVIS+CORE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1800&pause=800&color=FFB000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=Hello+World+👋;ABHIJIT+KUMAR;AI+Full+Stack+Developer;Building+Scalable+AI+Systems;Creating+Futuristic+Digital+Experiences"/>
 
 </div>
 
@@ -16,35 +16,40 @@
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750674-2e8f4d3b-55fd-4c5f-b9dd-7b4f5b1f4d6b.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
 
 </div>
 
 ---
 
-# ⚡ JARVIS CORE SYSTEM
+# ⚡ ABOUT ME
+
+<div align="center">
 
 ```yaml
-NAME: ABHIJIT KUMAR
-CODENAME: ABHI👾
-ROLE: AI FULL STACK ENGINEER
+Name: Abhijit Kumar
+Role: AI Full Stack Developer
+Location: Dimapur, Nagaland
+Education: Parul Institute of Technology
+Graduation: 2027
 
-STATUS: ONLINE
-AI_CORE: ACTIVE
-SECURITY_PROTOCOL: ENABLED
-MISSION: BUILDING AI SYSTEMS FOR VIKSIT BHARAT
+Focus:
+  - AI Applications
+  - Machine Learning
+  - Cloud Engineering
+  - Scalable Backend Systems
+  - Futuristic UI/UX
 
-CURRENT_FOCUS:
-  - AI APPLICATIONS
-  - CLOUD SYSTEMS
-  - FUTURISTIC UI/UX
-  - SCALABLE ARCHITECTURE
-  - MACHINE LEARNING
+Currently:
+  Building intelligent systems that combine
+  AI, performance, automation, and design.
 ```
+
+</div>
 
 ---
 
-# 🧠 NEURAL TECH MATRIX
+# 🧠 TECH ECOSYSTEM
 
 <div align="center">
 
@@ -54,45 +59,80 @@ CURRENT_FOCUS:
 
 ---
 
-# 🤖 AI RESEARCH LAB
+# ⚡ AI • CLOUD • SECURITY
 
 <div align="center">
 
-| AI Systems | Cloud & Backend | Security |
-|---|---|---|
-| Machine Learning | AWS | JWT Auth |
-| NLP | Azure | AES-128 |
-| RAG Pipelines | FastAPI | Access Control |
-| Embeddings | Node.js | API Security |
-| Sentence Transformers | .NET | Secure Architecture |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 AI & ML
+
+Machine Learning  
+NLP  
+RAG Pipelines  
+Embeddings  
+Sentence Transformers  
+Predictive Analytics  
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud & Backend
+
+AWS  
+Azure  
+FastAPI  
+Node.js  
+REST APIs  
+Scalable Systems  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔐 Security
+
+JWT Authentication  
+AES-128 Encryption  
+Access Control  
+Secure APIs  
+Version Control  
+SDLC  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# ⚡ POWER LEVEL ANALYTICS
+# 📊 DEVELOPMENT ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi010903&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi010903&show_icons=true&theme=transparent&hide_border=true&title_color=ffae00&text_color=ffffff&icon_color=ff0000"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi010903&theme=highcontrast&hide_border=true&ring=FFD700&fire=FF0000&currStreakLabel=FFD700"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi010903&theme=transparent&hide_border=true&ring=ffae00&fire=ff0000&currStreakLabel=ffae00"/>
 
 </div>
 
 ---
 
-# 🌌 AI ACTIVITY MATRIX
+# 🌌 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi010903&custom_title=ABHIJIT%20KUMAR%20AI%20ACTIVITY%20SYSTEM&bg_color=0D1117&color=FFD700&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi010903&bg_color=0D1117&color=ffae00&line=ff0000&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
 ---
 
-# 🐍 NEURAL CONTRIBUTION SYSTEM
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -102,34 +142,24 @@ CURRENT_FOCUS:
 
 ---
 
-# 🧠 LEETCODE BATTLE ANALYTICS
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Abhi_0109?theme=dark&font=Orbitron&ext=contest"/>
-
-</div>
-
----
-
-# ⚔️ CODING NETWORK
+# 🧠 CODING PROFILES
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Abhi_0109/">
-<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://codeforces.com/profile/abhijais0109">
-<img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=ffffff"/>
 </a>
 
 <a href="https://www.codechef.com/users/open_year_30">
-<img src="https://img.shields.io/badge/CODECHEF-000000?style=for-the-badge&logo=codechef&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/abhijais0109">
-<img src="https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 </div>
@@ -138,26 +168,30 @@ CURRENT_FOCUS:
 
 # ⚡ CURRENT OBJECTIVES
 
+<div align="center">
+
 ```diff
-+ BUILDING AI POWERED APPLICATIONS
-+ MASTERING CLOUD + AI INTEGRATION
-+ DEVELOPING NEXT GEN USER EXPERIENCES
-+ SCALING FUTURISTIC SYSTEMS
-+ EVOLVING INTO ELITE SOFTWARE ENGINEER
++ Building AI-driven applications
++ Scaling modern backend architectures
++ Mastering cloud-native development
++ Creating immersive user experiences
++ Solving real-world engineering problems
 ```
+
+</div>
 
 ---
 
-# 🌐 CONNECT TO JARVIS NETWORK
+# 🌐 CONNECT
 
 <div align="center">
 
 <a href="mailto:abhijasi0109@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/Abhi010903">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -166,7 +200,7 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abhi010903&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abhi010903&label=Profile%20Views&color=ff0000&style=for-the-badge"/>
 
 </div>
 
@@ -174,8 +208,6 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-# ⚡ POWERED BY JARVIS AI ⚡
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0c1,25:ffae00,50:ff0000,75:1a0000,100:000000&height=120&section=footer"/>
 
 </div>
